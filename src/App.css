@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.error-message {
+  font-weight: bold;
+  color: red;
+}
+
+.success-message {
+  font-weight: bold;
+  color: green;
+}
